@@ -31,7 +31,7 @@ from reportlab.lib.utils import ImageReader
 import datetime
 
 # ✅ STEP 3: Model download
-MODEL_URL = "https://github.com/Madhu08cse/Brain_Tumor/releases/download/v1.0/BrainTumor.1.h5"
+MODEL_URL = "https://github.com/gold-abi/Brain_tumor/releases/download/v1.1/BrainTumor.1.h5"
 MODEL_PATH = "BrainTumor.h5"
 
 def download_model(url, path):
